@@ -1,1 +1,1 @@
-# gaslight-app.github.io
+# [gaslight.app](https://gaslight.app)
